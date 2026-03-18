@@ -1,31 +1,40 @@
-## CYBER-CLASH
-Cyber-Clash is a simple rush fight game.
-## 🛠️ Technologies Used
+## ⚔️ CYBER CLASH
+Cyber-Clash is a simple rush fight browser game where players battle enemies using attack and heal mechanics.The game includes health management, critical hit probability, and character selection features.
 
-1. 🌐 HTML
-2. 🎨 CSS
-3. ⚡ JavaScript
-4. 🐙 GitHub
-5. 📝 WebCode
+---
+
+## 🛠️ Technologies Used
+- 🌐 HTML
+- 🎨 CSS
+- ⚡ JavaScript
+- 🐙 GitHub
+- 📝 WebCode
+
+---
 
 ## 🚧Future Updates
 
-1. Reset Button
-2. Block Button
-3. More Player options
-4. More Enemies
-5. More optimized
+- 🔄 Reset Button  
+- 🛡️ Block Button  
+- 👥 More Player Options  
+- 👾 More Enemy Types  
+- ⚡ Performance Optimization  
+
+---
 
 ## 🎮 How to play
 
-1. Choose your character
-2. There are health bar respective to characters
-3. Heal button adds random health between 10 to 25
-4. There is 20% chance of getting a critical attack giving damage of 15
+- Choose your character before starting the fight  
+- Each character has their own **health bar**  
+- 🩹 Heal button adds **random health between 10 – 25**  
+- 💥 There is a **20% chance of critical attack** causing **15 damage**  
+- Defeat the enemy before your health reaches zero  
+
+---
    
 ## 🚀 Installation Guide
 
-Follow these steps to run **Cyber.Clash** on your local system.
+Follow these steps to run **Cyber Clash** on your local system.
 
 ### 📥 Step 1 — Clone the Repository
 
@@ -70,9 +79,11 @@ If you are using VS Code:
 
 This gives better performance and auto-reload support.
 
+---
+
 ## 🧑‍💻Author/Creator
-Hello my name is,***RISHABH RAJ***. 
-I am eager to learn about different techs.
-My hobby is do **coding**, **learning about new techs coming in the market**, **gaming**.<br>
-For any project idea, contact me:<br>
-rishabh078buisness@gmail.com
+Name : Rishabh Raj<br>
+Role : Beginner Web Developer<br>
+Interest : Coding, Learning new technologies, Gaming<br>
+Contact : [rishabh078buisness@gmail.com](mailto:rishabh078buisness@gmail.com)<br>
+**Please note that AI is used to create the loop of this game, and I often use AI whenever I get confused or lack ideas.**
