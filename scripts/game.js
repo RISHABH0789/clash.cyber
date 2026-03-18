@@ -1,6 +1,7 @@
 const healths = document.querySelectorAll(".health");
 const msg = document.getElementById("msg");
 const messages = ["It's a tie!<br>Refresh page to play again","You Win!<br>Refresh page to play again","You Lose!<br>Refresh page to play again"]
+const btns = document.getElementById("btns");
 
 /*------ PLAYER ------*/
 
@@ -83,12 +84,15 @@ function decide_winner(){
 
     if(enemy_hp.value <= 0 && player_hp.value <= 0){
         msg.innerHTML = messages[0];
+        btns.style.visibility = "hidden";
     }
     else if(enemy_hp.value <= 0){
         msg.innerHTML = messages[1];
+        btns.style.visibility = "hidden";
     }
     else{
-    msg.innerHTML = messages[2];
+        msg.innerHTML = messages[2];
+        btns.style.visibility = "hidden";
     }
 }
 /*------ GAME LOOP ------*/
