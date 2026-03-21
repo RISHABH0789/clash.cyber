@@ -7,7 +7,7 @@ const attackBtn = document.getElementById("btns").children[0];
 const healBtn = document.getElementById("btns").children[1];
 const resetBtn = document.getElementById("btns").children[2];
 
-const messages = ["It's a tie!<br>Refresh page to play again","You Win!<br>Refresh page to play again","You Lose!<br>Refresh page to play again"]
+const messages = ["It's a tie!<br>Press Reset to play again","You Win!<br>Press Reset to play again","You Lose!<br>Press Reset to play again"]
 
 /*------ PLAYER ------*/
 
