@@ -9,6 +9,15 @@ const resetBtn = document.getElementById("btns").children[2];
 
 const messages = ["It's a tie!<br>Press Reset to play again","You Win!<br>Press Reset to play again","You Lose!<br>Press Reset to play again"]
 
+/*------ PLAYER IMAGE ------*/
+
+const characters = ["🥷🏻", "💂", "🧙", "🧑‍💻"];
+
+let character_value = Number(localStorage.getItem("value"));
+let character = document.getElementById("pl");
+
+character.textContent = characters[character_value - 1];// -1 is used because values start from 1 instead of 0
+
 /*------ PLAYER ------*/
 
 const player_hp = healths[0];
