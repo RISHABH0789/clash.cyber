@@ -12,17 +12,21 @@ Cyber-Clash is a simple rush fight browser game where players battle enemies usi
 
 ---
 
-## 🏷️ Version 1.1
-**Added Features**
+## 🏷️ Previous Updates
 - 🔄 Reset Button
 - ⚡ Performance Optimization  
+
+---
+
+## 🏷️ Version 1.2
+- 👥 More Player Options
+- ⚡ Performance Optimization
 
 ---
 
 ## 🚧Future Updates
 
 - 🛡️ Block Button  
-- 👥 More Player Options  
 - 👾 More Enemy Types  
 - ⚡ Performance Optimization  
 
