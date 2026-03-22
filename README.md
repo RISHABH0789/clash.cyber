@@ -1,5 +1,18 @@
 ## ⚔️ CYBER CLASH
-Cyber-Clash is a simple rush fight browser game where players battle enemies using attack and heal mechanics.The game includes health management, critical hit probability, and character selection features.
+Cyber-Clash is a simple rush-fight browser game where players battle enemies using attack and heal mechanics. The game includes health management, critical hit probability, and character selection features.
+
+---
+
+## 🌐 Live Demo
+👉 https://rishabh0789.github.io/cyber.clash/
+
+---
+
+## ✨ Features
+- ⚔️ Attack & Heal mechanics
+- 🎲 Randomized healing system
+- 💥 Critical hit system
+- 🎭 Character selection
 
 ---
 
@@ -7,28 +20,27 @@ Cyber-Clash is a simple rush fight browser game where players battle enemies usi
 - 🌐 HTML
 - 🎨 CSS
 - ⚡ JavaScript
-- 🐙 GitHub
+- 🐙 Git & GitHub (Version Control & Hosting)
 - 📝 WebCode
 
 ---
 
-## 🏷️ Previous Updates
-- 🔄 Reset Button
-- ⚡ Performance Optimization  
+## 🏷️ Version History
 
----
-
-## 🏷️ Version 1.2
+### 🚀 v1.2 (Latest)
 - 👥 More Player Options
+- ⚡ Performance Optimization
+
+### 🔄 Previous Updates
+- 🔄 Reset Button
 - ⚡ Performance Optimization
 
 ---
 
-## 🚧Future Updates
-
+## 🚧 Future Updates
 - 🛡️ Block Button  
 - 👾 More Enemy Types  
-- ⚡ Performance Optimization  
+- ⚡ Further performance improvements
 
 ---
 
@@ -37,7 +49,7 @@ Cyber-Clash is a simple rush fight browser game where players battle enemies usi
 - Choose your character before starting the fight  
 - Each character has their own **health bar**  
 - 🩹 Heal button adds **random health between 10 – 25**  
-- 💥 There is a **20% chance of critical attack** causing **15 damage**  
+- 💥 There is a **20% chance of a critical hit**, dealing **15 damage** 
 - Defeat the enemy before your health reaches zero  
 
 ---
@@ -96,4 +108,4 @@ Name : Rishabh Raj<br>
 Role : Beginner Web Developer<br>
 Interest : Coding, Learning new technologies, Gaming<br>
 Contact : [rishabh078buisness@gmail.com](mailto:rishabh078buisness@gmail.com)<br>
-**Please note that AI is used to create the loop of this game, and I often use AI whenever I get confused or lack ideas.**
+> ⚠️ Note: AI tools were used to assist with certain parts of the development process, especially in logic design and problem-solving.
