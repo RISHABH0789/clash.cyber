@@ -1,3 +1,4 @@
+![Cyber Clash Banner](img/banner.png)
 ## ⚔️ CYBER CLASH
 Cyber-Clash is a simple rush-fight browser game where players battle enemies using attack and heal mechanics. The game includes health management, critical hit probability, and character selection features.
 
