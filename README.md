@@ -5,7 +5,7 @@ Cyber-Clash is a simple rush-fight browser game where players battle enemies usi
 ---
 
 ## 🌐 Live Demo
-👉 https://rishabh0789.github.io/cyber.clash/
+👉 https://rishabh0789.github.io/clash.cyber/
 
 ---
 
